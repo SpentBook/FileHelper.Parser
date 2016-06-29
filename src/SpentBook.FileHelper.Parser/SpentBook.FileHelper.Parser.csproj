@@ -7,8 +7,8 @@
     <ProjectGuid>{172CBE8A-A0F2-4343-938B-15B168BA69AE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SpentBook.FileHelper.FileToTransactions</RootNamespace>
-    <AssemblyName>SpentBook.FileHelper.FileToTransactions</AssemblyName>
+    <RootNamespace>SpentBook.FileHelper.Parser</RootNamespace>
+    <AssemblyName>SpentBook.FileHelper.Parser</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
