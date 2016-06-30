@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("SpentBook.FileHelper.Parser")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Statement file parser for SpentBook Core App")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("SpentBook")]
 [assembly: AssemblyProduct("SpentBook.FileHelper.Parser")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyCopyright("Copyright © SpentBook 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
